@@ -11,13 +11,13 @@ params:
     imageTitle: Ashish
     subtitle: Hello You can find different side of me here
     buttons:
-      # - name: Blog
-      #   url: https://blog.ashishghimire.com
-      - name: Notes
-        url: https://notes.ashishghimire.com/
+      - name: Blog
+        url: https://blog.ashishghimire.com
       # - name: Portfolio
       #   url: https://portfolio.ashishghimire.com/
       - name: Youtube
         url: https://youtube.com/@ashishghimire/
       - name: Twitter
         url: https://twitter.com/aacsghimire/
+      - name: Notes
+        url: https://notes.ashishghimire.com/
