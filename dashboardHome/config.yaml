@@ -7,7 +7,7 @@ params:
   profileMode:
     enabled: true
     title: Ashish
-    imageUrl: /logoWhite.png
+    imageUrl: /img/light.png
     imageTitle: Ashish
     subtitle: Hello You can find different side of me here
     buttons:
