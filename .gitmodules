@@ -1,4 +1,0 @@
-[submodule "dashboardHome/public"]
-	path = dashboardHome/public
-	url = https://github.com/techtipsbasic/ashishghimire.github.io.git
-	branch = main
