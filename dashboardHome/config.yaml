@@ -13,8 +13,8 @@ params:
     buttons:
       - name: Blog
         url: https://blog.ashishghimire.com
-      # - name: Portfolio
-      #   url: https://portfolio.ashishghimire.com/
+      - name: Github
+        url: https://github.com/ghimireaacs
       - name: Youtube
         url: https://youtube.com/@ashishghimire/
       - name: Twitter
